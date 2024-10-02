@@ -12,14 +12,14 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 ## Profesional Experience
 
-- Applied Scientist Intern, Amazon RME: Implemented a variational auto-encoder to achieve 87% accuracy in detecting critical flaws in sensor data and automated work order categorization using LLMs, saving 200+ hours per week. Led inter-team collaboration to productionize a system for detecting refrigeration failures, preventing shutdowns and protecting $10M+ worth of products.
+- **Applied Scientist Intern, Amazon RME:** Enhanced an alerting system using non-parametric thresholding, increasing accuracy from 62% to 82% and improving false work order identification by 74%. Led inter-team collaboration to productionize a critical refrigeration failure detection system, protecting $10M worth of products. Implemented a SQL sub-module that boosted transformation performance by 37%, streamlining ETL processes.
 
-- Data Engineer, Quincy Credit Union: Automated data pipelines using Airflow and Spark SQL, reducing extraction time by 80%, and designed CI/CD pipelines for real-time transformations, enabling informed decision-making through live dashboards.
+- **Data Engineer, Quincy Credit Union:** Automated data pipelines using Airflow and Spark SQL, reducing extraction time by 80%, and designed CI/CD pipelines for real-time transformations, enabling informed decision-making through live dashboards.
 
-- Research Assistant, Northeastern University: Led a project utilizing LLaMA and Mixture of Experts architectures to improve abstract generation, achieving a 20% increase in quality. Conducted road safety research, developing data-driven solutions to potentially reduce traffic accidents by 25%.
+- **Research Assistant, Northeastern University:** Led a project utilizing LLaMA and Mixture of Experts architectures to improve abstract generation, achieving a 20% increase in quality. Conducted road safety research, developing data-driven solutions to potentially reduce traffic accidents by 25%.
 
-- Data Scientist, Virtusa: Leveraged SageMaker for custom ML and DL model training on EMR and EHR data, improving recall by 1.45%. Developed interactive BI dashboards, enhancing clinic decision-making by 25%, and optimized ETL pipelines to reduce data migration time by 20%.
-
+- **Data Scientist, Virtusa:** Implemented custom ML and DL models on EMR and EHR data using SageMaker, improving recall by 1.45%. Developed ETL pipelines and interactive BI dashboards, leading to a 25% improvement in decision-making. Designed a clustering solution to automate patient scheduling, eliminating 40 hours of manual work weekly. Reduced data migration time by 20% through optimized query techniques.
+  
 ## Currently Working On
 
 1. **[TagMyCompaint](https://github.com/Harshan1823/complaintTag):** Our project aims to streamline complaint resolution by automatically categorizing consumer complaints using a hybrid approach that combines fine-tuned DistilBERT for product and issue classification with traditional machine learning models for sub-products and sub-issues. This reduces manual errors and enhances routing efficiency, ensuring faster complaint handling.
