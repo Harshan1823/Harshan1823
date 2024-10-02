@@ -1,10 +1,10 @@
 
 ## 🚀 About Me
-I'm a Data enthisiast with a strong focus on building end-to-end production pipleines to develop ML applications. I am currently working as a Research Assistant under Virtusos team to develop and research on real-world applications levearging AI.
+I'm a data enthusiast with a passion for building end-to-end production pipelines and developing impactful machine learning solutions. Currently, I’m working as a Research Assistant with the Virtuosos team, where I focus on leveraging AI to solve complex challenges and research cutting-edge applications. With nearly 3 years of experience in the data space, I have a proven track record in delivering successful projects across the Pharma, Finance, and E-commerce industries.
 
-I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 3 years of experience in the data space with expertise in Pharma, Finance and E-commerce industries. My expertise spans Python, PyTorch, Tensorflow, Node.js, Java, Terraform, and various cloud platforms including AWS, Azure and GCP.
+My technical expertise spans Python, PyTorch, TensorFlow, Node.js, Java, and Terraform, alongside extensive experience with cloud platforms such as AWS, Azure, and GCP. I am particularly interested in developing scalable data pipelines, implementing robust MLOps strategies, and fine-tuning large language models (LLMs) for domain-specific applications.
 
-Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
+Driven by a passion for innovation and problem-solving, I thrive in collaborative environments where I can design, optimize, and deploy machine learning solutions to production. Feel free to explore my projects below, and reach out if you’d like to discuss opportunities for collaboration, explore new ideas, or connect for potential roles!
 
 
 ## Currently Working On
@@ -18,7 +18,7 @@ Feel free to explore my projects below and connect with me for opportunities to 
 
 ## Key Projects
 
-- **FiNER**: FiNER is a financial entity recognition system designed to identify 139 distinct entity tags within company filings submitted to the SEC during quarterly reports. The solution leverages advanced NLP techniques, including RNNs, LSTMs, and a custom transformer architecture, to accurately classify and extract financial entities, thereby streamlining the analysis of complex regulatory documents.
+- **FiNER**: FiNER is a financial entity recognition system designed to identify 139 distinct entity tags within company filings submitted to the SEC during quarterly reports. The solution leverages advanced NLP techniques, including RNNs, LSTMs, and a custom transformer architecture, to accurately classify and extract financial entities, thereby streamlining the analysis of complex regulatory documents. and 
 
 - **Activity Identification** - The real-time activity recognition project utilizes Amazon Go data to accurately identify and classify customer actions within the store environment. By leveraging state-of-the-art computer vision models, including YOLO for object detection and Vision Transformers for action recognition, the system effectively captures and interprets customer behaviors, enabling enhanced insights into shopping patterns and improving automated checkout experiences.
 
