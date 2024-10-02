@@ -16,7 +16,7 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 - **Data Engineer, Quincy Credit Union:** Automated end-to-end data pipelines using Airflow and Spark SQL, reducing extraction time by 80% and improving issue detection by 30%. Developed CI/CD pipelines for real-time data transformations, enabling better decision-making for 10+ managers through live dashboards. Implemented a Docker-based GCP workflow for daily model retraining using Vertex AI, ensuring consistency in pipeline execution.
 
-- **Research Assistant, Northeastern University:** Led a project utilizing LLaMA and Mixture of Experts architectures to improve abstract generation, achieving a 20% increase in quality. Conducted road safety research, developing data-driven solutions to potentially reduce traffic accidents by 25%.
+- **Research Assistant, Northeastern University:** Led projects using LLaMA and Mixture of Experts architectures to enhance text generation, achieving a 20% improvement in quality and 30% higher user satisfaction. Developed a recommendation system by integrating SOTA embeddings and BM25 indexing, boosting relevance by 12%. Conducted research on road safety, leveraging advanced modeling techniques to potentially reduce traffic accidents by 25%.
 
 - **Data Scientist, Virtusa:** Implemented custom ML and DL models on EMR and EHR data using SageMaker, improving recall by 1.45%. Developed ETL pipelines and interactive BI dashboards, leading to a 25% improvement in decision-making. Designed a clustering solution to automate patient scheduling, eliminating 40 hours of manual work weekly. Reduced data migration time by 20% through optimized query techniques.
   
