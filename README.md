@@ -14,7 +14,7 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 - **Applied Scientist Intern, Amazon RME:** Enhanced an alerting system using non-parametric thresholding, increasing accuracy from 62% to 82% and improving false work order identification by 74%. Led inter-team collaboration to productionize a critical refrigeration failure detection system, protecting $10M worth of products. Implemented a SQL sub-module that boosted transformation performance by 37%, streamlining ETL processes.
 
-- **Data Engineer, Quincy Credit Union:** Automated data pipelines using Airflow and Spark SQL, reducing extraction time by 80%, and designed CI/CD pipelines for real-time transformations, enabling informed decision-making through live dashboards.
+- **Data Engineer, Quincy Credit Union:** Automated end-to-end data pipelines using Airflow and Spark SQL, reducing extraction time by 80% and improving issue detection by 30%. Developed CI/CD pipelines for real-time data transformations, enabling better decision-making for 10+ managers through live dashboards. Implemented a Docker-based GCP workflow for daily model retraining using Vertex AI, ensuring consistency in pipeline execution.
 
 - **Research Assistant, Northeastern University:** Led a project utilizing LLaMA and Mixture of Experts architectures to improve abstract generation, achieving a 20% increase in quality. Conducted road safety research, developing data-driven solutions to potentially reduce traffic accidents by 25%.
 
