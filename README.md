@@ -14,7 +14,7 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 1. **[TagMyCompaint](https://github.com/Harshan1823/complaintTag):** Our project aims to streamline complaint resolution by automatically categorizing consumer complaints using a hybrid approach that combines fine-tuned DistilBERT for product and issue classification with traditional machine learning models for sub-products and sub-issues. This reduces manual errors and enhances routing efficiency, ensuring faster complaint handling.
 
-2. **[GeneSQL]((https://github.com/Harshan1823):** GeneSQL is a project focused on leveraging text-to-SQL models to enable natural language querying of structured databases. By integrating advanced NLP techniques, the system translates user queries into SQL commands, simplifying database interactions and making data retrieval more intuitive for non-technical users.
+2. **[GeneSQL](https://github.com/Harshan1823):** GeneSQL is a project focused on leveraging text-to-SQL models to enable natural language querying of structured databases. By integrating advanced NLP techniques, the system translates user queries into SQL commands, simplifying database interactions and making data retrieval more intuitive for non-technical users.
 
 3. **[RAG Enchancements](https://github.com/Harshan1823/Docs-RAG):** We are currently focused on optimizing the existing RAG framework by integrating advanced techniques inspired by Anthropic research and leveraging state-of-the-art re-ranking methodologies to significantly enhance the relevance and precision of the system’s responses.
 
