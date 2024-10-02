@@ -6,7 +6,7 @@ My technical expertise spans Python, PyTorch, TensorFlow, Node.js, Java, and Ter
 
 Driven by a passion for innovation and problem-solving, I thrive in collaborative environments where I can design, optimize, and deploy machine learning solutions to production. Feel free to explore my projects below, and reach out if you’d like to discuss opportunities for collaboration, explore new ideas, or connect for potential roles!
 
-**LinkedIn**(https://www.linkedin.com/in/your-profile/)
+[**LinkedIn**](https://www.linkedin.com/in/your-profile/)
 
 
 <h3 align="left">Languages and Tools:</h3>
