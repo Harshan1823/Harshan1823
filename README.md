@@ -25,14 +25,3 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - **LLM's on domain specifics** - In this project, I implemented Low-Rank Adaptation (LoRA) by leveraging various adapters to fine-tune large language models (LLMs) for answering domain-specific queries. This approach enabled efficient parameter updates, reducing training overhead while preserving model performance. The fine-tuned model demonstrated improved accuracy in generating targeted responses, making it a robust solution for handling specialized domain questions.
 
 
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
