@@ -10,7 +10,15 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 - Feel free to check my [**LinkedIn**](https://www.linkedin.com/in/your-profile/)
 
+## Profesional Experience
 
+- Applied Scientist Intern, Amazon RME: Implemented a variational auto-encoder to achieve 87% accuracy in detecting critical flaws in sensor data and automated work order categorization using LLMs, saving 200+ hours per week. Led inter-team collaboration to productionize a system for detecting refrigeration failures, preventing shutdowns and protecting $10M+ worth of products.
+
+- Data Engineer, Quincy Credit Union: Automated data pipelines using Airflow and Spark SQL, reducing extraction time by 80%, and designed CI/CD pipelines for real-time transformations, enabling informed decision-making through live dashboards.
+
+- Research Assistant, Northeastern University: Led a project utilizing LLaMA and Mixture of Experts architectures to improve abstract generation, achieving a 20% increase in quality. Conducted road safety research, developing data-driven solutions to potentially reduce traffic accidents by 25%.
+
+- Data Scientist, Virtusa: Leveraged SageMaker for custom ML and DL model training on EMR and EHR data, improving recall by 1.45%. Developed interactive BI dashboards, enhancing clinic decision-making by 25%, and optimized ETL pipelines to reduce data migration time by 20%.
 
 ## Currently Working On
 
