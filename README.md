@@ -22,11 +22,13 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 ## Key Projects
 
-- **[FiNER](https://github.com/Harshan1823/FinancialNumericEntityRecognition)** - FiNER is a financial entity recognition system designed to identify 139 distinct entity tags within company filings submitted to the SEC during quarterly reports. The solution leverages advanced NLP techniques, including RNNs, LSTMs, and a custom transformer architecture, to accurately classify and extract financial entities, thereby streamlining the analysis of complex regulatory documents. and 
+- **[FiNER](https://github.com/Harshan1823/FinancialNumericEntityRecognition)** - FiNER is a financial entity recognition system designed to identify 139 distinct entity tags within company filings submitted to the SEC during quarterly reports. The solution leverages advanced NLP techniques, including RNNs, LSTMs, and a custom transformer architecture, to accurately classify and extract financial entities, thereby streamlining the analysis of complex regulatory documents. and
+
+- - **[LLM's on domain specifics](https://github.com/Harshan1823/LLM-with-LoRA)** - In this project, I implemented Low-Rank Adaptation (LoRA) by leveraging various adapters to fine-tune large language models (LLMs) for answering domain-specific queries. This approach enabled efficient parameter updates, reducing training overhead while preserving model performance. The fine-tuned model demonstrated improved accuracy in generating targeted responses, making it a robust solution for handling specialized domain questions.
 
 - **[Activity Identification](https://github.com/Harshan1823/RealTime_Activity_Recognition)** - The real-time activity recognition project utilizes Amazon Go data to accurately identify and classify customer actions within the store environment. By leveraging state-of-the-art computer vision models, including YOLO for object detection and Vision Transformers for action recognition, the system effectively captures and interprets customer behaviors, enabling enhanced insights into shopping patterns and improving automated checkout experiences.
 
-- **[LLM's on domain specifics](https://github.com/Harshan1823/LLM-with-LoRA)** - In this project, I implemented Low-Rank Adaptation (LoRA) by leveraging various adapters to fine-tune large language models (LLMs) for answering domain-specific queries. This approach enabled efficient parameter updates, reducing training overhead while preserving model performance. The fine-tuned model demonstrated improved accuracy in generating targeted responses, making it a robust solution for handling specialized domain questions.
+
 - **[Real-time events processing](https://github.com/Harshan1823)** - Engineered a real-time data pipeline using Azure EventHub to capture 5 GB+ of daily logs, achieving a improvement in data processing efficiency and a boost in data retrieval speeds by leveraging Azure Storage and Azure Analytics for enhanced scalability.
 
 
