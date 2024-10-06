@@ -1,5 +1,7 @@
 
-![Profile Views](https://profile-counter.glitch.me/Harshan1823/count.svg)
+### Profile Views
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Harshan1823&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 
 ## 🚀 About Me
 I'm a data enthusiast with a passion for building end-to-end production pipelines and developing impactful machine learning solutions. Currently, I’m working as a Research Assistant with the Virtuosos team, where I focus on leveraging AI to solve complex challenges and research cutting-edge applications. Previously, I have held roles at **Amazon, Quincy Credit Union, and Virtusa (Jhonson & Jhonson)**, where I gained extensive experience in building scalable data solutions, implementing machine learning models, and optimizing data processing pipelines across diverse industries. With nearly 3 years of experience in the data space, I have a proven track record in delivering successful products/projects across the Pharma, Finance, and E-commerce industries.
