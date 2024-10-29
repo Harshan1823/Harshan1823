@@ -1,5 +1,7 @@
 
 ### Profile Views
+![Visitor Badge](
+https://visitor-badge.laobi.icu/badge?page_id=Harshan1823.Harshan1823)
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Harshan1823&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
