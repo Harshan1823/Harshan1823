@@ -14,6 +14,11 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 - Feel free to check my [**LinkedIn**](https://www.linkedin.com/in/harshan1823/)
 - Check out my work on **[Hugging Face 🤗](https://huggingface.co/harshan1823)**
 
+Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
+
+📧 **Email:** [ganugula.h@northeastern.edu](mailto:ganugula.h@northeastern.edu)
+
+
 
   
 ## Currently Working On
