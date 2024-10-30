@@ -12,7 +12,8 @@ Driven by a passion for innovation and problem-solving, I thrive in collaborativ
 
 
 - Feel free to check my [**LinkedIn**](https://www.linkedin.com/in/harshan1823/)
-- Checkout my [![**HuggingFace**](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/harshan1823)
+- Check out my work on **[Hugging Face 🤗](https://huggingface.co/harshan1823)**
+
 
   
 ## Currently Working On
